@@ -7,7 +7,7 @@ The Official Charity Sea Coin (CHRTY) ICO Contract
 3. OpenZeppelin v1.9.0 contracts as a base of source code
 
 ### Coin summary
-1. Current Coin address: ``
+1. Current Coin address: <a href="https://etherscan.io/token/0x96747fa2911fb4f783f0f5b5dc5b6886b83bd120">`0x96747fa2911fb4f783f0f5b5dc5b6886b83bd120`</a>
 2. Coin symbol: CHRTY
 3. Coin decimals: 18
 
